@@ -1,0 +1,1315 @@
+<?xml version="1.0"?>
+<dblpperson name="Thanh Duc Ngo" pid="65/3565" n="74">
+<person key="homepages/65/3565" mdate="2022-02-15">
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="65/3565">Thanh-Duc Ngo</author>
+<note type="affiliation">Vietnam National University Ho Chi Minh City, Vietnam</note>
+<note type="affiliation" label="PhD">Graduate University for Advanced Studies, Tokyo, Japan</note>
+<url>https://scholar.google.com/citations?user=I8bNZakAAAAJ</url>
+<url>https://dl.acm.org/profile/81392602249</url>
+<url>https://orcid.org/0000-0001-6882-0070</url>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2304-07444" mdate="2023-04-24">
+<author pid="305/2136">Thanh-Danh Nguyen</author>
+<author pid="305/1969">Anh-Khoa Nguyen Vu</author>
+<author pid="305/1575">Nhat-Duy Nguyen</author>
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="28/8692">Thanh-Toan Do</author>
+<author pid="44/7448">Minh-Triet Tran</author>
+<author pid="119/1364-2">Tam V. Nguyen 0002</author>
+<title>Few-shot Camouflaged Animal Detection and Segmentation.</title>
+<year>2023</year>
+<volume>abs/2304.07444</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.07444</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-07444</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-07459" mdate="2023-04-21">
+<author pid="305/1969">Anh-Khoa Nguyen Vu</author>
+<author pid="28/8692">Thanh-Toan Do</author>
+<author pid="305/1575">Nhat-Duy Nguyen</author>
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="119/1364-2">Tam V. Nguyen 0002</author>
+<title>Instance-level Few-shot Learning with Class Hierarchy Mining.</title>
+<year>2023</year>
+<volume>abs/2304.07459</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.07459</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-07459</url>
+</article>
+</r>
+<r><article key="journals/ivc/VuNNNNDN22" mdate="2022-06-23">
+<author pid="305/1969">Anh-Khoa Nguyen Vu</author>
+<author pid="305/1575">Nhat-Duy Nguyen</author>
+<author pid="136/9395">Khanh-Duy Nguyen</author>
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="28/8692">Thanh-Toan Do</author>
+<author orcid="0000-0003-0236-7992" pid="119/1364-2">Tam V. Nguyen 0002</author>
+<title>Few-shot object detection via baby learning.</title>
+<pages>104398</pages>
+<year>2022</year>
+<volume>120</volume>
+<journal>Image Vis. Comput.</journal>
+<ee>https://doi.org/10.1016/j.imavis.2022.104398</ee>
+<url>db/journals/ivc/ivc120.html#VuNNNNDN22</url>
+</article>
+</r>
+<r><inproceedings key="conf/mapr/HuuNNNN22" mdate="2022-11-10">
+<author pid="305/2016">Manh-Khanh Ngo Huu</author>
+<author pid="332/7192">Vinh Quang Ngo</author>
+<author pid="305/2136">Thanh-Danh Nguyen</author>
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<title>Antique Photo Restoration and Colorization via Generative Model.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>MAPR</booktitle>
+<ee>https://doi.org/10.1109/MAPR56351.2022.9924704</ee>
+<crossref>conf/mapr/2022</crossref>
+<url>db/conf/mapr/mapr2022.html#HuuNNNN22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mapr/Nguyen-ThiPNN22" mdate="2022-11-10">
+<author pid="332/7277">Bich-Van Nguyen-Thi</author>
+<author pid="332/6951">Triet Le Phan</author>
+<author pid="297/1022">Thua-Ngoc Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<title>A Crowdsourcing Data Annotation System For Vietnamese Scene Text Detection.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>MAPR</booktitle>
+<ee>https://doi.org/10.1109/MAPR56351.2022.9924980</ee>
+<crossref>conf/mapr/2022</crossref>
+<url>db/conf/mapr/mapr2022.html#Nguyen-ThiPNN22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmm/HoDNLTDMNL22" mdate="2022-03-22">
+<author pid="52/6903">Khanh Ho</author>
+<author pid="316/4337">Vu Xuan Dinh</author>
+<author pid="16/1260">Hong-Quang Nguyen</author>
+<author pid="134/0194">Khiem Le</author>
+<author pid="81/9994">Khang Dinh Tran</author>
+<author pid="126/2256">Tien Do</author>
+<author pid="167/1067">Tien-Dung Mai</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<title>UIT at VBS 2022: An Unified and Interactive Video Retrieval System with Temporal Search.</title>
+<pages>556-561</pages>
+<year>2022</year>
+<booktitle>MMM (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-98355-0_54</ee>
+<crossref>conf/mmm/2022-2</crossref>
+<url>db/conf/mmm/mmm2022-2.html#HoDNLTDMNL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/NguyenN0TNNH21" mdate="2022-12-07">
+<author pid="38/6441">Nguyen Nguyen</author>
+<author pid="47/3996">Thu Nguyen</author>
+<author pid="77/2885-5">Vinh Tran 0005</author>
+<author orcid="0000-0003-3046-3041" pid="44/7448">Minh-Triet Tran</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="17/9407">Thien Huu Nguyen</author>
+<author pid="135/4935">Minh Hoai</author>
+<title>Dictionary-Guided Scene Text Recognition.</title>
+<pages>7383-7392</pages>
+<year>2021</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content/CVPR2021/html/Nguyen_Dictionary-Guided_Scene_Text_Recognition_CVPR_2021_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR46437.2021.00730</ee>
+<crossref>conf/cvpr/2021</crossref>
+<url>db/conf/cvpr/cvpr2021.html#NguyenN0TNNH21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mapr/HoLNNDNN21" mdate="2021-11-03">
+<author pid="52/6903">Khanh Ho</author>
+<author pid="305/1736">Huy Bao Le</author>
+<author pid="305/2846">Khoa Van Nguyen</author>
+<author pid="305/3003">Thua Nguyen</author>
+<author pid="126/2256">Tien Do</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="97/6880">Thanh-Son Nguyen</author>
+<title>Unweighted Bipartite Matching For Robust Vehicle Counting.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>MAPR</booktitle>
+<ee>https://doi.org/10.1109/MAPR53640.2021.9585273</ee>
+<crossref>conf/mapr/2021</crossref>
+<url>db/conf/mapr/mapr2021.html#HoLNNDNN21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mapr/HuuHNN21" mdate="2021-11-03">
+<author pid="305/2016">Manh-Khanh Ngo Huu</author>
+<author pid="287/7389">Sy-Tuyen Ho</author>
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<title>Multilingual-GAN: A Multilingual GAN-based Approach for Handwritten Generation.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>MAPR</booktitle>
+<ee>https://doi.org/10.1109/MAPR53640.2021.9585285</ee>
+<crossref>conf/mapr/2021</crossref>
+<url>db/conf/mapr/mapr2021.html#HuuHNN21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mapr/TranPNDN21" mdate="2021-11-03">
+<author pid="50/2494">Minh Tran</author>
+<author pid="89/4897">Tri Pham</author>
+<author pid="95/487">Tien Nguyen</author>
+<author pid="126/2256">Tien Do</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<title>A robust framework for mathematical formula detection.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>MAPR</booktitle>
+<ee>https://doi.org/10.1109/MAPR53640.2021.9585197</ee>
+<crossref>conf/mapr/2021</crossref>
+<url>db/conf/mapr/mapr2021.html#TranPNDN21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mapr/VuNNN21" mdate="2022-10-02">
+<author pid="305/1969">Anh-Khoa Nguyen Vu</author>
+<author orcid="0000-0001-6577-2122" pid="305/2136">Thanh-Danh Nguyen</author>
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<title>DF-FSOD: A Novel Approach for Few-shot Object Detection via Distinguished Features.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>MAPR</booktitle>
+<ee>https://doi.org/10.1109/MAPR53640.2021.9585248</ee>
+<crossref>conf/mapr/2021</crossref>
+<url>db/conf/mapr/mapr2021.html#VuNNN21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rivf/LeTAHNNDNL21" mdate="2022-01-06">
+<author pid="45/466">Hung Le</author>
+<author pid="309/9373">Huy To</author>
+<author pid="309/9971">Hung An</author>
+<author pid="52/6903">Khanh Ho</author>
+<author pid="51/4678">Khoa Nguyen</author>
+<author pid="305/3003">Thua Nguyen</author>
+<author pid="126/2256">Tien Do</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<title>MC-OCR Challenge 2021: An end-to-end recognition framework for Vietnamese Receipts.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>RIVF</booktitle>
+<ee>https://doi.org/10.1109/RIVF51545.2021.9642121</ee>
+<crossref>conf/rivf/2021</crossref>
+<url>db/conf/rivf/rivf2021.html#LeTAHNNDNL21</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijmir/NguyenN20" mdate="2020-05-30">
+<author pid="215/6587">Vy Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<title>Single-image crowd counting: a comparative survey on deep learning-based approaches.</title>
+<pages>63-80</pages>
+<year>2020</year>
+<volume>9</volume>
+<journal>Int. J. Multim. Inf. Retr.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s13735-019-00181-y</ee>
+<url>db/journals/ijmir/ijmir9.html#NguyenN20</url>
+</article>
+</r>
+<r><article key="journals/jece/NguyenDNL20" mdate="2020-07-15">
+<author pid="260/4205">Duy-Nhat Nguyen</author>
+<author orcid="0000-0002-5381-3414" pid="126/2256">Tien Do</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<title>An Evaluation of Deep Learning Methods for Small Object Detection.</title>
+<pages>3189691:1-3189691:18</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>J. Electr. Comput. Eng.</journal>
+<ee type="oa">https://doi.org/10.1155/2020/3189691</ee>
+<url>db/journals/jece/jece2020.html#NguyenDNL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/mapr/HoNN20" mdate="2021-11-03">
+<author pid="287/7389">Sy-Tuyen Ho</author>
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<title>Interpolation based Anime Face Style Transfer.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>MAPR</booktitle>
+<ee>https://doi.org/10.1109/MAPR49794.2020.9237764</ee>
+<crossref>conf/mapr/2020</crossref>
+<url>db/conf/mapr/mapr2020.html#HoNN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mapr/NguyenNDNL20" mdate="2021-11-03">
+<author pid="260/4205">Duy-Nhat Nguyen</author>
+<author pid="305/3003">Thua Nguyen</author>
+<author pid="126/2256">Tien Do</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<title>U15-Logos: Unconstrained Logo Dataset with Evaluation by Deep learning Methods.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>MAPR</booktitle>
+<ee>https://doi.org/10.1109/MAPR49794.2020.9237769</ee>
+<crossref>conf/mapr/2020</crossref>
+<url>db/conf/mapr/mapr2020.html#NguyenNDNL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mapr/VoNDNDNNL020" mdate="2021-11-03">
+<author pid="04/2891">Hung-Quoc Vo</author>
+<author pid="297/0265">Dung-Minh Nguyen</author>
+<author pid="126/2256">Tien Do</author>
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="255/9876">Vu-Minh-Hieu Dang</author>
+<author pid="305/1575">Nhat-Duy Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>Searching For Desired Person Doing Desired Action based on Visual and Audio Feature in Large Scale Video Database.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>MAPR</booktitle>
+<ee>https://doi.org/10.1109/MAPR49794.2020.9237781</ee>
+<crossref>conf/mapr/2020</crossref>
+<url>db/conf/mapr/mapr2020.html#VoNDNDNNL020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trecvid/LeVNDPVNNNWS20" mdate="2021-08-10">
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="04/2891">Hung-Quoc Vo</author>
+<author pid="297/0265">Dung-Minh Nguyen</author>
+<author pid="181/2475-2">Tien-Van Do 0002</author>
+<author pid="297/0895">Thinh-Le-Gia Pham</author>
+<author pid="297/1060">Tri-Le-Minh Vo</author>
+<author pid="297/1022">Thua-Ngoc Nguyen</author>
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="65/3565">Thanh-Duc Ngo</author>
+<author pid="w/ZhengWang7">Zheng Wang 0007</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>NII_UIT AT TRECVID 2020.</title>
+<year>2020</year>
+<booktitle>TRECVID</booktitle>
+<ee type="oa">https://www-nlpir.nist.gov/projects/tvpubs/tv20.papers/nii_uit.pdf</ee>
+<crossref>conf/trecvid/2020</crossref>
+<url>db/conf/trecvid/trecvid2020.html#LeVNDPVNNNWS20</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijmir/NguyenLTNNSD19" mdate="2022-12-07">
+<author orcid="0000-0003-4260-7874" pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author orcid="0000-0003-3046-3041" pid="44/7448">Minh-Triet Tran</author>
+<author orcid="0000-0003-0236-7992" pid="119/1364-2">Tam V. Nguyen 0002</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>Video instance search via spatial fusion of visual words and object proposals.</title>
+<pages>181-192</pages>
+<year>2019</year>
+<volume>8</volume>
+<journal>Int. J. Multim. Inf. Retr.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s13735-019-00172-z</ee>
+<url>db/journals/ijmir/ijmir8.html#NguyenLTNNSD19</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscit/HienNLSPN19" mdate="2022-12-07">
+<author orcid="0000-0001-9387-7909" pid="232/0362">Do Thi Thu Hien</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="85/542">Hiroo Sekiya</author>
+<author pid="13/5508">Van-Hau Pham</author>
+<author orcid="0000-0003-0400-3084" pid="68/5068">Kien Nguyen</author>
+<title>Targeting Bufferbloat in Wi-Fi Networks: An Emulator-based Approach.</title>
+<pages>102-107</pages>
+<year>2019</year>
+<booktitle>ISCIT</booktitle>
+<ee>https://doi.org/10.1109/ISCIT.2019.8905184</ee>
+<crossref>conf/iscit/2019</crossref>
+<url>db/conf/iscit/iscit2019.html#HienNLSPN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soict/HienNLSPN19" mdate="2020-03-27">
+<author pid="232/0362">Do Thi Thu Hien</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="85/542">Hiroo Sekiya</author>
+<author pid="13/5508">Van-Hau Pham</author>
+<author orcid="0000-0003-0400-3084" pid="68/5068">Kien Nguyen</author>
+<title>A Software Defined Networking Approach for Guaranteeing Delay in Wi-Fi Networks.</title>
+<pages>191-196</pages>
+<year>2019</year>
+<booktitle>SoICT</booktitle>
+<ee>https://doi.org/10.1145/3368926.3369710</ee>
+<crossref>conf/soict/2019</crossref>
+<url>db/conf/soict/soict2019.html#HienNLSPN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trecvid/KlinkigtLHVCDKN19" mdate="2021-08-10">
+<author pid="77/9103">Martin Klinkigt</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="96/3400">Atsushi Hiroike</author>
+<author pid="04/2891">Hung-Quoc Vo</author>
+<author pid="260/4196">Mohit Chabra</author>
+<author pid="255/9876">Vu-Minh-Hieu Dang</author>
+<author pid="17/11110">Quan Kong</author>
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="95/10877">Tomokazu Murakami</author>
+<author pid="181/2475-2">Tien-Van Do 0002</author>
+<author pid="69/9205">Tomoaki Yoshinaga</author>
+<author pid="260/4205">Duy-Nhat Nguyen</author>
+<author pid="260/4526">Sinha Saptarshi</author>
+<author pid="65/3565">Thanh-Duc Ngo</author>
+<author pid="260/4828">Charles Limasanches</author>
+<author pid="28/1071">Tushar Agrawal</author>
+<author pid="234/6031">Jian Vora</author>
+<author pid="257/3078">Manikandan Ravikiran</author>
+<author pid="w/ZhengWang7">Zheng Wang 0007</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>NII Hitachi UIT at TRECVID 2019.</title>
+<year>2019</year>
+<booktitle>TRECVID</booktitle>
+<ee type="oa">https://www-nlpir.nist.gov/projects/tvpubs/tv19.papers/nii_hitachi_uit.pdf</ee>
+<crossref>conf/trecvid/2019</crossref>
+<url>db/conf/trecvid/trecvid2019.html#KlinkigtLHVCDKN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aciids/NguyenDNND18" mdate="2018-03-06">
+<author pid="215/6587">Vy Nguyen</author>
+<author pid="126/2256">Tien Do</author>
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>How to Choose Deep Face Models for Surveillance System?</title>
+<pages>367-376</pages>
+<year>2018</year>
+<booktitle>ACIIDS (Extended Posters)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-76081-0_31</ee>
+<crossref>conf/aciids/2018p</crossref>
+<url>db/conf/aciids/aciids2018p.html#NguyenDNND18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mapr/PhuNDN18" mdate="2021-11-04">
+<author pid="305/3264">Quy Nguyen Pham Phu</author>
+<author pid="215/6587">Vy Nguyen</author>
+<author pid="126/2256">Tien Do</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<title>Measuring Crowd Collectiveness with Trajectory Smoothing.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>MAPR</booktitle>
+<ee>https://doi.org/10.1109/MAPR.2018.8337520</ee>
+<crossref>conf/mapr/2018</crossref>
+<url>db/conf/mapr/mapr2018.html#PhuNDN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmm/TruongNTTDNL18" mdate="2022-12-07">
+<author pid="213/5771">Thanh-Dat Truong</author>
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author orcid="0000-0003-3046-3041" pid="44/7448">Minh-Triet Tran</author>
+<author pid="213/5789">Trang-Vinh Trieu</author>
+<author pid="126/2256">Tien Do</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<title>Video Search Based on Semantic Extraction and Locally Regional Object Proposal.</title>
+<pages>451-456</pages>
+<year>2018</year>
+<booktitle>MMM (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-73600-6_49</ee>
+<crossref>conf/mmm/2018-2</crossref>
+<url>db/conf/mmm/mmm2018-2.html#TruongNTTDNL18</url>
+</inproceedings>
+</r>
+<r><article key="journals/cviu/MaiNLDHS17" mdate="2021-07-19">
+<author pid="167/1067">Tien-Dung Mai</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author orcid="0000-0003-0356-5501" pid="48/4683">Duy-Dinh Le</author>
+<author orcid="0000-0002-6329-665X" pid="98/173">Duc Anh Duong</author>
+<author pid="49/1458">Kiem Hoang</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>Efficient large-scale multi-class image classification by learning balanced trees.</title>
+<pages>151-161</pages>
+<year>2017</year>
+<volume>156</volume>
+<journal>Comput. Vis. Image Underst.</journal>
+<ee>https://doi.org/10.1016/j.cviu.2016.10.008</ee>
+<url>db/journals/cviu/cviu156.html#MaiNLDHS17</url>
+</article>
+</r>
+<r><article key="journals/informaticaSI/NguyenNTLD17" mdate="2021-02-16">
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="44/7448">Minh-Triet Tran</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>Persons-In-Places: a Deep Features Based Approach for Searching a Specific Person in a Specific Location.</title>
+<year>2017</year>
+<volume>41</volume>
+<journal>Informatica (Slovenia)</journal>
+<number>2</number>
+<ee type="oa">http://www.informatica.si/index.php/informatica/article/view/1664</ee>
+<url>db/journals/informaticaSI/informaticaSI41.html#NguyenNTLD17</url>
+</article>
+</r>
+<r><article key="journals/tcsv/ChenCKNLSH17" mdate="2021-07-19">
+<author pid="86/10575">Bor-Chun Chen</author>
+<author pid="66/9376">Yan-Ying Chen</author>
+<author pid="12/7458">Yin-Hsi Kuo</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<author orcid="0000-0002-3330-0638" pid="16/5668">Winston H. Hsu</author>
+<title>Scalable Face Track Retrieval in Video Archives Using Bag-of-Faces Sparse Representation.</title>
+<pages>1595-1603</pages>
+<year>2017</year>
+<volume>27</volume>
+<journal>IEEE Trans. Circuits Syst. Video Technol.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TCSVT.2016.2538520</ee>
+<url>db/journals/tcsv/tcsv27.html#ChenCKNLSH17</url>
+</article>
+</r>
+<r><article key="journals/vjcs/NguyenNNN17" mdate="2020-09-17">
+<author pid="151/8719">Ngoc-Bao Nguyen</author>
+<author pid="125/2218">Vu Hoang Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="159/9300">Khang M. T. T. Nguyen</author>
+<title>Person re-identification with mutual re-ranking.</title>
+<pages>233-244</pages>
+<year>2017</year>
+<volume>4</volume>
+<journal>Vietnam. J. Comput. Sci.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s40595-016-0093-x</ee>
+<ee>https://www.wikidata.org/entity/Q59482383</ee>
+<url>db/journals/vjcs/vjcs4.html#NguyenNNN17</url>
+</article>
+</r>
+<r><inproceedings key="conf/iconip/PhamNDNL17" mdate="2017-11-15">
+<author pid="208/4770">Phuoc Pham</author>
+<author pid="13/5240">Duy Nguyen</author>
+<author pid="126/2256">Tien Do</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<title>Evaluation of Deep Models for Real-Time Small Object Detection.</title>
+<pages>516-526</pages>
+<year>2017</year>
+<booktitle>ICONIP (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-70090-8_53</ee>
+<crossref>conf/iconip/2017-3</crossref>
+<url>db/conf/iconip/iconip2017-3.html#PhamNDNL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmm/NguyenNLTDS17" mdate="2022-12-07">
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author orcid="0000-0003-3046-3041" pid="44/7448">Minh-Triet Tran</author>
+<author pid="98/173">Duc Anh Duong</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>Semantic Extraction and Object Proposal for Video Search.</title>
+<pages>475-479</pages>
+<year>2017</year>
+<booktitle>MMM (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-51814-5_44</ee>
+<crossref>conf/mmm/2017-2</crossref>
+<url>db/conf/mmm/mmm2017-2.html#NguyenNLTDS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trecvid/PhanKNMXHRNTWHD17" mdate="2021-07-19">
+<author pid="118/4844">Sang Phan</author>
+<author pid="77/9103">Martin Klinkigt</author>
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="167/1067">Tien-Dung Mai</author>
+<author pid="217/1821">Andreu Girbau Xalabarder</author>
+<author pid="180/0282">Ryota Hinami</author>
+<author pid="137/2145">Benjamin Renoust</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="44/7448">Minh-Triet Tran</author>
+<author pid="84/4209">Yuki Watanabe</author>
+<author pid="96/3400">Atsushi Hiroike</author>
+<author pid="98/173">Duc Anh Duong</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="34/467">Yusuke Miyao</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>NII-HITACHI-UIT at TRECVID 2017.</title>
+<year>2017</year>
+<booktitle>TRECVID</booktitle>
+<ee type="oa">https://www-nlpir.nist.gov/projects/tvpubs/tv17.papers/nii_hitachi_uit.pdf</ee>
+<crossref>conf/trecvid/2017</crossref>
+<url>db/conf/trecvid/trecvid2017.html#PhanKNMXHRNTWHD17</url>
+</inproceedings>
+</r>
+<r><article key="journals/ans/RenoustKNLS16" mdate="2021-07-19">
+<author pid="137/2145">Benjamin Renoust</author>
+<author pid="89/739">Tetsuro Kobayashi</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>When face-tracking meets social networks: a story of politics in news videos.</title>
+<pages>4</pages>
+<year>2016</year>
+<volume>1</volume>
+<journal>Appl. Netw. Sci.</journal>
+<ee type="oa">https://doi.org/10.1007/s41109-016-0003-2</ee>
+<ee>https://www.wikidata.org/entity/Q59470822</ee>
+<url>db/journals/ans/ans1.html#RenoustKNLS16</url>
+</article>
+</r>
+<r><article key="journals/ieicet/LePNLSD16" mdate="2021-07-19">
+<author pid="172/4637">Chien-Quang Le</author>
+<author pid="118/4844">Sang Phan</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>Human Action Recognition from Depth Videos Using Pool of Multiple Projections with Greedy Selection.</title>
+<pages>2161-2171</pages>
+<year>2016</year>
+<volume>99-D</volume>
+<journal>IEICE Trans. Inf. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1587/transinf.2015EDP7430</ee>
+<ee>http://search.ieice.org/bin/summary.php?id=e99-d_8_2161</ee>
+<url>db/journals/ieicet/ieicet99d.html#LePNLSD16</url>
+</article>
+</r>
+<r><inproceedings key="conf/eccv/LeMSND16" mdate="2021-07-19">
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="167/1067">Tien-Dung Mai</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>Efficient Large Scale Image Classification via Prediction Score Decomposition.</title>
+<pages>770-785</pages>
+<year>2016</year>
+<booktitle>ECCV (6)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46466-4_46</ee>
+<crossref>conf/eccv/2016-6</crossref>
+<url>db/conf/eccv/eccv2016-6.html#LeMSND16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ic3ina/LamLDNLD16" mdate="2023-03-21">
+<author pid="53/10479">Vu Lam</author>
+<author pid="118/4844">Sang Phan Le</author>
+<author pid="126/2256">Tien Do</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>Computational optimization for violent scenes detection.</title>
+<pages>141-146</pages>
+<year>2016</year>
+<booktitle>IC3INA</booktitle>
+<ee>https://doi.org/10.1109/IC3INA.2016.7863039</ee>
+<crossref>conf/ic3ina/2016</crossref>
+<url>db/conf/ic3ina/ic3ina2016.html#LamLDNLD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/MaiNLDHS16" mdate="2021-07-19">
+<author pid="167/1067">Tien-Dung Mai</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<author pid="49/1458">Kiem Hoang</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>Using node relationships for hierarchical classification.</title>
+<pages>514-518</pages>
+<year>2016</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2016.7532410</ee>
+<crossref>conf/icip/2016</crossref>
+<url>db/conf/icip/icip2016.html#MaiNLDHS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/RenoustNLS16" mdate="2021-07-19">
+<author pid="137/2145">Benjamin Renoust</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>News Archive Exploration Combining Face Detection and Tracking with Network Visual Analytics.</title>
+<pages>728-730</pages>
+<year>2016</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/2964284.2973823</ee>
+<crossref>conf/mm/2016</crossref>
+<url>db/conf/mm/mm2016.html#RenoustNLS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soict/NguyenTNLD16" mdate="2022-12-07">
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author orcid="0000-0003-3046-3041" pid="44/7448">Minh-Triet Tran</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>Searching a specific person in a specific location using deep features.</title>
+<pages>79-86</pages>
+<year>2016</year>
+<booktitle>SoICT</booktitle>
+<ee>https://doi.org/10.1145/3011077.3011138</ee>
+<crossref>conf/soict/2016</crossref>
+<url>db/conf/soict/soict2016.html#NguyenTNLD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trecvid/LePNRNHNTWKHDMS16" mdate="2021-07-19">
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="118/4844">Sang Phan</author>
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="137/2145">Benjamin Renoust</author>
+<author pid="33/4275">Tuan A. Nguyen</author>
+<author pid="157/7968">Van-Nam Hoang</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="44/7448">Minh-Triet Tran</author>
+<author pid="84/4209">Yuki Watanabe</author>
+<author pid="77/9103">Martin Klinkigt</author>
+<author pid="96/3400">Atsushi Hiroike</author>
+<author pid="98/173">Duc Anh Duong</author>
+<author pid="34/467">Yusuke Miyao</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>NII-HITACHI-UIT at TRECVID 2016.</title>
+<year>2016</year>
+<booktitle>TRECVID</booktitle>
+<ee type="oa">https://www-nlpir.nist.gov/projects/tvpubs/tv16.papers/nii-hitachi-uit.pdf</ee>
+<crossref>conf/trecvid/2016</crossref>
+<url>db/conf/trecvid/trecvid2016.html#LePNRNHNTWKHDMS16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijmdem/NguyenNTLD15" mdate="2020-09-11">
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="44/7448">Minh-Triet Tran</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>A Combination of Spatial Pyramid and Inverted Index for Large-Scale Image Retrieval.</title>
+<pages>37-51</pages>
+<year>2015</year>
+<volume>6</volume>
+<journal>Int. J. Multim. Data Eng. Manag.</journal>
+<number>2</number>
+<ee>https://doi.org/10.4018/IJMDEM.2015040103</ee>
+<url>db/journals/ijmdem/ijmdem6.html#NguyenNTLD15</url>
+</article>
+</r>
+<r><inproceedings key="conf/iciap/MaiNLDHS15" mdate="2021-07-19">
+<author pid="167/1067">Tien-Dung Mai</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<author pid="49/1458">Kiem Hoang</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>Learning Balanced Trees for Large Scale Image Classification.</title>
+<pages>3-13</pages>
+<year>2015</year>
+<booktitle>ICIAP (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-23234-8_1</ee>
+<crossref>conf/iciap/2015-2</crossref>
+<url>db/conf/iciap/iciap2015-2.html#MaiNLDHS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kes/Nguyen-ThiNNN15" mdate="2017-05-21">
+<author pid="170/7251">Anh-Thu Nguyen-Thi</author>
+<author pid="170/7296">Phuc Quang Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="44/5914">Tu-Anh Nguyen-Hoang</author>
+<title>Transfer AdaBoost SVM for Link Prediction in Newly Signed Social Networks using Explicit and PNR Features.</title>
+<pages>332-341</pages>
+<year>2015</year>
+<booktitle>KES</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2015.08.135</ee>
+<crossref>conf/kes/2015</crossref>
+<url>db/conf/kes/kes2015.html#Nguyen-ThiNNN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kse/NguyenNNN15" mdate="2018-05-11">
+<author pid="170/7296">Phuc Quang Nguyen</author>
+<author pid="170/7251">Anh-Thu Nguyen-Thi</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="44/5914">Tu-Anh Nguyen-Hoang</author>
+<title>Using Textual Semantic Similarity to Improve Clustering Quality of Web Video Search Results.</title>
+<pages>156-161</pages>
+<year>2015</year>
+<booktitle>KSE</booktitle>
+<ee>https://doi.org/10.1109/KSE.2015.47</ee>
+<crossref>conf/kse/2015</crossref>
+<url>db/conf/kse/kse2015.html#NguyenNNN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kse/NguyenPN15" mdate="2017-06-15">
+<author pid="74/3055">Trang Nguyen</author>
+<author pid="118/4844">Sang Phan</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<title>Generalized Max Pooling for Action Recognition.</title>
+<pages>401-406</pages>
+<year>2015</year>
+<booktitle>KSE</booktitle>
+<ee>https://doi.org/10.1109/KSE.2015.45</ee>
+<crossref>conf/kse/2015</crossref>
+<url>db/conf/kse/kse2015.html#NguyenPN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmm/NguyenNNLD15" mdate="2017-05-25">
+<author pid="151/8719">Ngoc-Bao Nguyen</author>
+<author pid="125/2218">Vu Hoang Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>AttRel: An Approach to Person Re-Identification by Exploiting Attribute Relationships.</title>
+<pages>50-60</pages>
+<year>2015</year>
+<booktitle>MMM (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-14442-9_5</ee>
+<crossref>conf/mmm/2015-2</crossref>
+<url>db/conf/mmm/mmm2015-2.html#NguyenNNLD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmm/NgoNNLDS15" mdate="2021-07-19">
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="125/2218">Vu Hoang Nguyen</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>NII-UIT Browser: A Multimodal Video Search System.</title>
+<pages>278-281</pages>
+<year>2015</year>
+<booktitle>MMM (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-14442-9_28</ee>
+<crossref>conf/mmm/2015-2</crossref>
+<url>db/conf/mmm/mmm2015-2.html#NgoNNLDS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmsp/LeNLSD15" mdate="2021-07-19">
+<author pid="172/4637">Chien-Quang Le</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>Human Action recognition from depth videos using multi-projection based representation.</title>
+<pages>1-6</pages>
+<year>2015</year>
+<booktitle>MMSP</booktitle>
+<ee>https://doi.org/10.1109/MMSP.2015.7340879</ee>
+<crossref>conf/mmsp/2015</crossref>
+<url>db/conf/mmsp/mmsp2015.html#LeNLSD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmsp/MaiNLDHS15" mdate="2021-07-19">
+<author pid="167/1067">Tien-Dung Mai</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<author pid="49/1458">Kiem Hoang</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>Large scale multi-class classification using latent classifiers.</title>
+<pages>1-6</pages>
+<year>2015</year>
+<booktitle>MMSP</booktitle>
+<ee>https://doi.org/10.1109/MMSP.2015.7340800</ee>
+<crossref>conf/mmsp/2015</crossref>
+<url>db/conf/mmsp/mmsp2015.html#MaiNLDHS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/psivt/LeNLSD15" mdate="2021-07-19">
+<author pid="172/4637">Chien-Quang Le</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>Cross-View Action Recognition by Projection-Based Augmentation.</title>
+<pages>215-227</pages>
+<year>2015</year>
+<booktitle>PSIVT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-29451-3_18</ee>
+<crossref>conf/psivt/2015</crossref>
+<url>db/conf/psivt/psivt2015.html#LeNLSD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sitis/RenoustNLS15" mdate="2023-03-23">
+<author pid="137/2145">Benjamin Renoust</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>A Social Network Analysis of Face Tracking in News Video.</title>
+<pages>474-481</pages>
+<year>2015</year>
+<booktitle>SITIS</booktitle>
+<ee>https://doi.org/10.1109/SITIS.2015.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SITIS.2015.30</ee>
+<crossref>conf/sitis/2015</crossref>
+<url>db/conf/sitis/sitis2015.html#RenoustNLS15</url>
+</inproceedings>
+</r>
+<r><article key="journals/vlsisp/PhanNLTLDS14" mdate="2021-07-19">
+<author pid="118/4844">Sang Phan</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="53/10479">Vu Lam</author>
+<author pid="19/2438">Son Tran</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>Multimedia Event Detection Using Segment-Based Approach for Motion Feature.</title>
+<pages>19-31</pages>
+<year>2014</year>
+<volume>74</volume>
+<journal>J. Signal Process. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s11265-013-0825-4</ee>
+<ee>https://www.wikidata.org/entity/Q59396552</ee>
+<url>db/journals/vlsisp/vlsisp74.html#PhanNLTLDS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ism/NguyenPNLD14" mdate="2023-03-24">
+<author pid="159/0731">Bien-Van Nguyen</author>
+<author pid="131/3629">Duy Pham</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>Integrating Spatial Information into Inverted Index for Large-Scale Image Retrieval.</title>
+<pages>102-105</pages>
+<year>2014</year>
+<booktitle>ISM</booktitle>
+<ee>https://doi.org/10.1109/ISM.2014.63</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISM.2014.63</ee>
+<crossref>conf/ism/2014</crossref>
+<url>db/conf/ism/ism2014.html#NguyenPNLD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kse/NguyenNNLD14" mdate="2017-05-17">
+<author pid="151/8719">Ngoc-Bao Nguyen</author>
+<author pid="125/2218">Vu Hoang Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>Using Attribute Relationships for Person Re-Identification.</title>
+<pages>195-207</pages>
+<year>2014</year>
+<booktitle>KSE</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11680-8_16</ee>
+<crossref>conf/kse/2014</crossref>
+<url>db/conf/kse/kse2014.html#NguyenNNLD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmm/NgoNLPLDS14" mdate="2021-07-19">
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="125/2218">Vu Hoang Nguyen</author>
+<author pid="53/10479">Vu Lam</author>
+<author pid="118/4844">Sang Phan</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>NII-UIT: A Tool for Known Item Search by Sequential Pattern Filtering.</title>
+<pages>419-422</pages>
+<year>2014</year>
+<booktitle>MMM (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-04117-9_50</ee>
+<crossref>conf/mmm/2014-2</crossref>
+<url>db/conf/mmm/mmm2014-2.html#NgoNLPLDS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/NgoPLS14" mdate="2021-07-19">
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="118/4844">Sang Phan</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title><i>Recommend-Me</i>: recommending query regions for image search.</title>
+<pages>913-918</pages>
+<year>2014</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2554850.2555005</ee>
+<crossref>conf/sac/2014</crossref>
+<url>db/conf/sac/sac2014.html#NgoPLS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trecvid/LePNZNNKPTDS14" mdate="2021-07-19">
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="118/4844">Sang Phan</author>
+<author pid="60/11111">Vinh-Tiep Nguyen</author>
+<author pid="70/4054">Cai-Zhi Zhu</author>
+<author pid="262/2271">Duc M. Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="82/8496">Siriwat Kasamwattanarote</author>
+<author pid="02/6474">S&#233;bastien Poullot</author>
+<author pid="44/7448">Minh-Triet Tran</author>
+<author pid="98/173">Duc Anh Duong</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>National Institute of Informatics, Japan at TRECVID 2014.</title>
+<year>2014</year>
+<booktitle>TRECVID</booktitle>
+<ee type="oa">https://www-nlpir.nist.gov/projects/tvpubs/tv14.papers/nii.pdf</ee>
+<crossref>conf/trecvid/2014</crossref>
+<url>db/conf/trecvid/trecvid2014.html#LePNZNNKPTDS14</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/jp/Ngo13" mdate="2022-10-05">
+<author pid="65/3565">Thanh Duc Ngo</author>
+<title>Scalable Approaches for Content -based Video Retrieval.</title>
+<school>Graduate University for Advanced Studies, Japan</school>
+<year>2013</year>
+<ee>https://ci.nii.ac.jp/naid/500001013980</ee>
+<ee>https://dl.ndl.go.jp/info:ndljp/pid/10342204</ee>
+<ee>http://id.nii.ac.jp/1013/00004678/</ee>
+</phdthesis>
+</r>
+<r><article key="journals/ieicet/NgoVLS13" mdate="2021-07-19">
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="19/10699">Hung Thanh Vu</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>Face Retrieval in Large-Scale News Video Datasets.</title>
+<pages>1811-1825</pages>
+<year>2013</year>
+<volume>96-D</volume>
+<journal>IEICE Trans. Inf. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1587/transinf.E96.D.1811</ee>
+<ee>http://search.ieice.org/bin/summary.php?id=e96-d_8_1811</ee>
+<url>db/journals/ieicet/ieicet96d.html#NgoVLS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/mmm/LeLNTNDS13" mdate="2021-07-19">
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="53/10479">Vu Lam</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="125/2065">Vinh Quang Tran</author>
+<author pid="125/2218">Vu Hoang Nguyen</author>
+<author pid="98/173">Duc Anh Duong</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>NII-UIT-VBS: A Video Browsing Tool for Known Item Search.</title>
+<pages>547-549</pages>
+<year>2013</year>
+<booktitle>MMM (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35728-2_65</ee>
+<crossref>conf/mmm/2013-2</crossref>
+<url>db/conf/mmm/mmm2013-2.html#LeLNTNDS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socpar/LamLLSDN13" mdate="2021-07-19">
+<author pid="53/10479">Vu Lam</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="118/4844">Sang Phan Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<author pid="159/9341">Due Arm Duong</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<title>Evaluation of low-level features for detecting violent scenes in videos.</title>
+<pages>213-218</pages>
+<year>2013</year>
+<booktitle>SoCPaR</booktitle>
+<ee>https://doi.org/10.1109/SOCPAR.2013.7054129</ee>
+<crossref>conf/socpar/2013</crossref>
+<url>db/conf/socpar/socpar2013.html#LamLLSDN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socpar/NguyenNNDNL13" mdate="2020-03-27">
+<author pid="125/2218">Vu Hoang Nguyen</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="159/9300">Khang M. T. T. Nguyen</author>
+<author pid="98/173">Duc Anh Duong</author>
+<author orcid="0000-0003-0400-3084" pid="68/5068">Kien Nguyen</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<title>Re-ranking for person re-identification.</title>
+<pages>304-308</pages>
+<year>2013</year>
+<booktitle>SoCPaR</booktitle>
+<ee>https://doi.org/10.1109/SOCPAR.2013.7054148</ee>
+<crossref>conf/socpar/2013</crossref>
+<url>db/conf/socpar/socpar2013.html#NguyenNNDNL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soict/LamPNLDS13" mdate="2021-07-19">
+<author pid="53/10479">Vu Lam</author>
+<author pid="118/4844">Sang Phan</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>Violent scene detection using mid-level feature.</title>
+<pages>198-205</pages>
+<year>2013</year>
+<booktitle>SoICT</booktitle>
+<ee>https://doi.org/10.1145/2542050.2542070</ee>
+<crossref>conf/soict/2013</crossref>
+<url>db/conf/soict/soict2013.html#LamPNLDS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/PhanLTNLS12" mdate="2023-03-24">
+<author pid="118/4844">Sang Phan</author>
+<author pid="53/10479">Vu Lam</author>
+<author pid="19/2438">Son Tran</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>A Codeword Visualization Tool for Dense Trajectory Feature.</title>
+<pages>672</pages>
+<year>2012</year>
+<booktitle>ICME Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICMEW.2012.128</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICMEW.2012.128</ee>
+<crossref>conf/icmcs/2012w</crossref>
+<url>db/conf/icmcs/icmew2012.html#PhanLTNLS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/DuongDNLDLS12" mdate="2021-08-10">
+<author pid="16/11112">Chi Nhan Duong</author>
+<author pid="126/0739">Thang Cap Pham Dinh</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<author pid="93/5448">Bac Hoai Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>Robust eye localization in video by combining eye detector and eye tracker.</title>
+<pages>242-245</pages>
+<year>2012</year>
+<booktitle>ICPR</booktitle>
+<ee>https://ieeexplore.ieee.org/document/6460117/</ee>
+<crossref>conf/icpr/2012</crossref>
+<url>db/conf/icpr/icpr2012.html#DuongDNLDLS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pcm/PhanNLTLDS12" mdate="2021-07-19">
+<author pid="118/4844">Sang Phan</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="53/10479">Vu Lam</author>
+<author pid="19/2438">Son Tran</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>Multimedia Event Detection Using Segment-Based Approach for Motion Feature.</title>
+<pages>33-44</pages>
+<year>2012</year>
+<booktitle>PCM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34778-8_4</ee>
+<crossref>conf/pcm/2012</crossref>
+<url>db/conf/pcm/pcm2012.html#PhanNLTLDS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trecvid/LeZPLNDNDS12" mdate="2021-07-19">
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="70/4054">Cai-Zhi Zhu</author>
+<author pid="02/6474">S&#233;bastien Poullot</author>
+<author pid="53/10479">Vu Lam</author>
+<author pid="125/2218">Vu Hoang Nguyen</author>
+<author pid="16/11112">Chi Nhan Duong</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="98/173">Duc Anh Duong</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>National Institute of Informatics, Japan at TRECVID 2012.</title>
+<year>2012</year>
+<booktitle>TRECVID</booktitle>
+<ee type="oa">https://www-nlpir.nist.gov/projects/tvpubs/tv12.papers/nii.pdf</ee>
+<crossref>conf/trecvid/2012</crossref>
+<url>db/conf/trecvid/trecvid2012.html#LeZPLNDNDS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iciap/NgoLS11" mdate="2021-07-19">
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>Improving Image Categorization by Using Multiple Instance Learning with Spatial Relation.</title>
+<pages>108-117</pages>
+<year>2011</year>
+<booktitle>ICIAP (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-24085-0_12</ee>
+<crossref>conf/iciap/2011-1</crossref>
+<url>db/conf/iciap/iciap2011-1.html#NgoLS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/NgoLS11" mdate="2021-07-19">
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>Boosting global scene classification accuracy by discriminative region localization.</title>
+<pages>1053-1056</pages>
+<year>2011</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2011.6115605</ee>
+<crossref>conf/icip/2011</crossref>
+<url>db/conf/icip/icip2011.html#NgoLS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/VuNNLSLD11" mdate="2021-07-19">
+<author pid="19/10699">Hung Thanh Vu</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="68/8278">Thao Ngoc Nguyen</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<author pid="93/5448">Bac Hoai Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>Fast face sequence matching in large-scale video databases.</title>
+<pages>2549-2552</pages>
+<year>2011</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2011.6116183</ee>
+<crossref>conf/icip/2011</crossref>
+<url>db/conf/icip/icip2011.html#VuNNLSLD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semco/LeNS11" mdate="2023-03-23">
+<author pid="48/4683">Duy-Dinh Le</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<title>NII-KAORI-PERSON-SEARCH: A General Framework for Indexing and Retrieving People's Appearance in Large Video Archives.</title>
+<pages>211-212</pages>
+<year>2011</year>
+<booktitle>ICSC</booktitle>
+<ee>https://doi.org/10.1109/ICSC.2011.90</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSC.2011.90</ee>
+<crossref>conf/semco/2011</crossref>
+<url>db/conf/semco/icsc2011.html#LeNS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/civr/NguyenNLSLD10" mdate="2021-07-19">
+<author pid="68/8278">Thao Ngoc Nguyen</author>
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<author pid="93/5448">Bac Hoai Le</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>An efficient method for face retrieval from large video datasets.</title>
+<pages>382-389</pages>
+<year>2010</year>
+<booktitle>CIVR</booktitle>
+<ee>https://doi.org/10.1145/1816041.1816096</ee>
+<crossref>conf/civr/2010</crossref>
+<url>db/conf/civr/civr2010.html#NguyenNLSLD10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmsp/LeSND08" mdate="2021-07-19">
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<author pid="65/3565">Thanh Duc Ngo</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>A text segmentation based approach to video shot boundary detection.</title>
+<pages>702-706</pages>
+<year>2008</year>
+<booktitle>MMSP</booktitle>
+<ee>https://doi.org/10.1109/MMSP.2008.4665166</ee>
+<crossref>conf/mmsp/2008</crossref>
+<url>db/conf/mmsp/mmsp2008.html#LeSND08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sitis/NgoLSD08" mdate="2023-03-23">
+<author orcid="0000-0001-6882-0070" pid="65/3565">Thanh Duc Ngo</author>
+<author pid="48/4683">Duy-Dinh Le</author>
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<author pid="98/173">Duc Anh Duong</author>
+<title>Robust Face Track Finding in Video Using Tracked Points.</title>
+<pages>59-64</pages>
+<year>2008</year>
+<booktitle>SITIS</booktitle>
+<ee>https://doi.org/10.1109/SITIS.2008.74</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SITIS.2008.74</ee>
+<crossref>conf/sitis/2008</crossref>
+<url>db/conf/sitis/sitis2008.html#NgoLSD08</url>
+</inproceedings>
+</r>
+<coauthors n="106" nc="1">
+<co c="0"><na f="a/Agrawal:Tushar" pid="28/1071">Tushar Agrawal</na></co>
+<co c="0"><na f="a/An:Hung" pid="309/9971">Hung An</na></co>
+<co c="0"><na f="c/Chabra:Mohit" pid="260/4196">Mohit Chabra</na></co>
+<co c="0"><na f="c/Chen:Bor=Chun" pid="86/10575">Bor-Chun Chen</na></co>
+<co c="0"><na f="c/Chen:Yan=Ying" pid="66/9376">Yan-Ying Chen</na></co>
+<co c="0"><na f="d/Dang:Vu=Minh=Hieu" pid="255/9876">Vu-Minh-Hieu Dang</na></co>
+<co c="0"><na f="d/Dinh:Thang_Cap_Pham" pid="126/0739">Thang Cap Pham Dinh</na></co>
+<co c="0"><na f="d/Dinh:Vu_Xuan" pid="316/4337">Vu Xuan Dinh</na></co>
+<co c="0"><na f="d/Do:Thanh=Toan" pid="28/8692">Thanh-Toan Do</na></co>
+<co c="0"><na f="d/Do:Tien" pid="126/2256">Tien Do</na></co>
+<co c="0"><na f="d/Do_0002:Tien=Van" pid="181/2475-2">Tien-Van Do 0002</na></co>
+<co c="0"><na f="d/Duong:Chi_Nhan" pid="16/11112">Chi Nhan Duong</na></co>
+<co c="0"><na f="d/Duong:Duc_Anh" pid="98/173">Duc Anh Duong</na></co>
+<co c="0"><na f="d/Duong:Due_Arm" pid="159/9341">Due Arm Duong</na></co>
+<co c="0" n="2"><na f="g/Girbau:Andreu" pid="217/1821">Andreu Girbau</na><na>Andreu Girbau Xalabarder</na></co>
+<co c="0"><na f="h/Hien:Do_Thi_Thu" pid="232/0362">Do Thi Thu Hien</na></co>
+<co c="0"><na f="h/Hinami:Ryota" pid="180/0282">Ryota Hinami</na></co>
+<co c="0"><na f="h/Hiroike:Atsushi" pid="96/3400">Atsushi Hiroike</na></co>
+<co c="0"><na f="h/Ho:Khanh" pid="52/6903">Khanh Ho</na></co>
+<co c="0"><na f="h/Ho:Sy=Tuyen" pid="287/7389">Sy-Tuyen Ho</na></co>
+<co c="0"><na f="h/Hoai:Minh" pid="135/4935">Minh Hoai</na></co>
+<co c="0"><na f="h/Hoang:Kiem" pid="49/1458">Kiem Hoang</na></co>
+<co c="0"><na f="h/Hoang:Van=Nam" pid="157/7968">Van-Nam Hoang</na></co>
+<co c="0"><na f="h/Hsu:Winston_H=" pid="16/5668">Winston H. Hsu</na></co>
+<co c="0"><na f="h/Huu:Manh=Khanh_Ngo" pid="305/2016">Manh-Khanh Ngo Huu</na></co>
+<co c="0"><na f="k/Kasamwattanarote:Siriwat" pid="82/8496">Siriwat Kasamwattanarote</na></co>
+<co c="0"><na f="k/Klinkigt:Martin" pid="77/9103">Martin Klinkigt</na></co>
+<co c="0"><na f="k/Kobayashi:Tetsuro" pid="89/739">Tetsuro Kobayashi</na></co>
+<co c="0"><na f="k/Kong:Quan" pid="17/11110">Quan Kong</na></co>
+<co c="0"><na f="k/Kuo:Yin=Hsi" pid="12/7458">Yin-Hsi Kuo</na></co>
+<co c="0"><na f="l/Lam:Vu" pid="53/10479">Vu Lam</na></co>
+<co c="0" n="2"><na f="l/Le:Bac" pid="93/5448">Bac Le</na><na>Bac Hoai Le</na></co>
+<co c="0"><na f="l/Le:Chien=Quang" pid="172/4637">Chien-Quang Le</na></co>
+<co c="0"><na f="l/Le:Duy=Dinh" pid="48/4683">Duy-Dinh Le</na></co>
+<co c="0"><na f="l/Le:Hung" pid="45/466">Hung Le</na></co>
+<co c="0"><na f="l/Le:Huy_Bao" pid="305/1736">Huy Bao Le</na></co>
+<co c="0"><na f="l/Le:Khiem" pid="134/0194">Khiem Le</na></co>
+<co c="0" n="2"><na f="l/Le:Sang_Phan" pid="118/4844">Sang Phan Le</na><na>Sang Phan</na></co>
+<co c="0"><na f="l/Limasanches:Charles" pid="260/4828">Charles Limasanches</na></co>
+<co c="0"><na f="m/Mai:Tien=Dung" pid="167/1067">Tien-Dung Mai</na></co>
+<co c="0"><na f="m/Miyao:Yusuke" pid="34/467">Yusuke Miyao</na></co>
+<co c="0"><na f="m/Murakami:Tomokazu" pid="95/10877">Tomokazu Murakami</na></co>
+<co c="0"><na f="n/Ngo:Vinh_Quang" pid="332/7192">Vinh Quang Ngo</na></co>
+<co c="0"><na f="n/Nguyen:Bien=Van" pid="159/0731">Bien-Van Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Duc_M=" pid="262/2271">Duc M. Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Dung=Minh" pid="297/0265">Dung-Minh Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Duy" pid="13/5240">Duy Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Duy=Nhat" pid="260/4205">Duy-Nhat Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Hong=Quang" pid="16/1260">Hong-Quang Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Khang_M=_T=_T=" pid="159/9300">Khang M. T. T. Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Khanh=Duy" pid="136/9395">Khanh-Duy Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Khoa" pid="51/4678">Khoa Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Khoa_Van" pid="305/2846">Khoa Van Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Kien" pid="68/5068">Kien Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Ngoc=Bao" pid="151/8719">Ngoc-Bao Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Nguyen" pid="38/6441">Nguyen Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Nhat=Duy" pid="305/1575">Nhat-Duy Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Phuc_Quang" pid="170/7296">Phuc Quang Nguyen</na></co>
+<co c="0"><na f="n/Nguyen_0002:Tam_V=" pid="119/1364-2">Tam V. Nguyen 0002</na></co>
+<co c="0"><na f="n/Nguyen:Thanh=Danh" pid="305/2136">Thanh-Danh Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Thanh=Son" pid="97/6880">Thanh-Son Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Thao_Ngoc" pid="68/8278">Thao Ngoc Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Thien_Huu" pid="17/9407">Thien Huu Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Thu" pid="47/3996">Thu Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Thua" pid="305/3003">Thua Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Thua=Ngoc" pid="297/1022">Thua-Ngoc Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Tien" pid="95/487">Tien Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Trang" pid="74/3055">Trang Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Tuan_A=" pid="33/4275">Tuan A. Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Vinh=Tiep" pid="60/11111">Vinh-Tiep Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Vu_Hoang" pid="125/2218">Vu Hoang Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Vy" pid="215/6587">Vy Nguyen</na></co>
+<co c="0"><na f="n/Nguyen=Hoang:Tu=Anh" pid="44/5914">Tu-Anh Nguyen-Hoang</na></co>
+<co c="0"><na f="n/Nguyen=Thi:Anh=Thu" pid="170/7251">Anh-Thu Nguyen-Thi</na></co>
+<co c="0"><na f="n/Nguyen=Thi:Bich=Van" pid="332/7277">Bich-Van Nguyen-Thi</na></co>
+<co c="0"><na f="p/Pham:Duy" pid="131/3629">Duy Pham</na></co>
+<co c="0"><na f="p/Pham:Phuoc" pid="208/4770">Phuoc Pham</na></co>
+<co c="0"><na f="p/Pham:Thinh=Le=Gia" pid="297/0895">Thinh-Le-Gia Pham</na></co>
+<co c="0"><na f="p/Pham:Tri" pid="89/4897">Tri Pham</na></co>
+<co c="0"><na f="p/Pham:Van=Hau" pid="13/5508">Van-Hau Pham</na></co>
+<co c="0"><na f="p/Phan:Triet_Le" pid="332/6951">Triet Le Phan</na></co>
+<co c="0"><na f="p/Phu:Quy_Nguyen_Pham" pid="305/3264">Quy Nguyen Pham Phu</na></co>
+<co c="0"><na f="p/Poullot:S=eacute=bastien" pid="02/6474">S&#233;bastien Poullot</na></co>
+<co c="0"><na f="r/Ravikiran:Manikandan" pid="257/3078">Manikandan Ravikiran</na></co>
+<co c="0"><na f="r/Renoust:Benjamin" pid="137/2145">Benjamin Renoust</na></co>
+<co c="0"><na f="s/Saptarshi:Sinha" pid="260/4526">Sinha Saptarshi</na></co>
+<co c="0"><na f="s/Satoh_0001:Shin=ichi" pid="50/290">Shin'ichi Satoh 0001</na></co>
+<co c="0"><na f="s/Sekiya:Hiroo" pid="85/542">Hiroo Sekiya</na></co>
+<co c="0"><na f="t/To:Huy" pid="309/9373">Huy To</na></co>
+<co c="0"><na f="t/Tran:Khang_Dinh" pid="81/9994">Khang Dinh Tran</na></co>
+<co c="0"><na f="t/Tran:Minh" pid="50/2494">Minh Tran</na></co>
+<co c="0"><na f="t/Tran:Minh=Triet" pid="44/7448">Minh-Triet Tran</na></co>
+<co c="0"><na f="t/Tran:Son" pid="19/2438">Son Tran</na></co>
+<co c="0"><na f="t/Tran_0005:Vinh" pid="77/2885-5">Vinh Tran 0005</na></co>
+<co c="0"><na f="t/Tran:Vinh_Quang" pid="125/2065">Vinh Quang Tran</na></co>
+<co c="0"><na f="t/Trieu:Trang=Vinh" pid="213/5789">Trang-Vinh Trieu</na></co>
+<co c="0"><na f="t/Truong:Thanh=Dat" pid="213/5771">Thanh-Dat Truong</na></co>
+<co c="0" n="2"><na f="v/Vo:Hung_Quoc" pid="04/2891">Hung Quoc Vo</na><na>Hung-Quoc Vo</na></co>
+<co c="0"><na f="v/Vo:Tri=Le=Minh" pid="297/1060">Tri-Le-Minh Vo</na></co>
+<co c="0"><na f="v/Vora:Jian" pid="234/6031">Jian Vora</na></co>
+<co c="0"><na f="v/Vu:Anh=Khoa_Nguyen" pid="305/1969">Anh-Khoa Nguyen Vu</na></co>
+<co c="0"><na f="v/Vu:Hung_Thanh" pid="19/10699">Hung Thanh Vu</na></co>
+<co c="0"><na f="w/Wang_0007:Zheng" pid="w/ZhengWang7">Zheng Wang 0007</na></co>
+<co c="0"><na f="w/Watanabe:Yuki" pid="84/4209">Yuki Watanabe</na></co>
+<co c="0"><na f="y/Yoshinaga:Tomoaki" pid="69/9205">Tomoaki Yoshinaga</na></co>
+<co c="0"><na f="z/Zhu:Cai=Zhi" pid="70/4054">Cai-Zhi Zhu</na></co>
+</coauthors>
+</dblpperson>
+
